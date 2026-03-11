@@ -30,5 +30,5 @@ Current technical interests:
 
 ## Contact
 
-GitHub: https://github.com/anas-aqeel
-LinkedIn: linkedin.com/in/anasaqeel01
+GitHub: https://github.com/anas-aqeel <br/>
+LinkedIn: https://linkedin.com/in/anasaqeel01
